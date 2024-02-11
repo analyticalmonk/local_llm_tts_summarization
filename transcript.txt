@@ -1,0 +1,20 @@
+SPEAKER_01:  Okay, first one.
+
+SPEAKER_01: Coffee or tea?
+
+SPEAKER_00: I've had both today, but I'm generally coffee.
+
+SPEAKER_01: Coffee or tea?
+
+SPEAKER_01: Okay, second one.
+
+SPEAKER_01: Masala dosa or avocado toast?
+
+SPEAKER_00: Masala dosa.
+
+SPEAKER_01: Good one.
+
+SPEAKER_02: Is there something called avocado toast?
+
+SPEAKER_01: You're a morning person or an evening person.
+
